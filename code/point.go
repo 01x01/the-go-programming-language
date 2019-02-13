@@ -1,5 +1,5 @@
 // 指针
-package main
+package code
 
 import (
 	"fmt"
