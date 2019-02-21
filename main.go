@@ -7,5 +7,6 @@ import (
 
 func main(){
 	fmt.Println("Hello Go!")
-	code.Arrays()
+	//code.Arrays()
+	code.Slice()
 }
